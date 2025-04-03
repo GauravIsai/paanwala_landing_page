@@ -1,25 +1,27 @@
 // Poem text
 const kiplingPoem = `<p>
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON 
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
-COMING SOON <span>...</span> PAANWALLA <span>COMING SOON</span> PAANWALLA</span> COMING SOON
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
+COMING SOON <span>...</span> THE PAANWALLA <span>COMING SOON</span> THE PAANWALLA </span>
  </p>`;
 
 // Function to insert poem into divs
